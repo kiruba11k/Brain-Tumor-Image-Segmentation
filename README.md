@@ -59,8 +59,8 @@ You can download the dataset from [Kaggle](https://www.kaggle.com/pkdarabi/brain
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/brain-tumor-segmentation.git
-   cd brain-tumor-segmentation
+   git clone https://github.com/kiruba11k/Brain-Tumor-Image-Segmentation.git
+   cd Brain-Tumor-Image-Segmentation
    ```
 
 2. **Set Up a Virtual Environment**
